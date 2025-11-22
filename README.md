@@ -9,6 +9,7 @@
 - 🌱 **Learning & Mentorship:** Passionate about **clean code** and system architecture. I actively mentor junior engineers in best practices.
 - 💞️ **Looking to Collaborate:** Open to collaborating on high-impact **Golang open source projects**, especially those focused on **system reliability** and distributed systems.
 - 🔗 **Connect with me:**
+    * **Full CV (PDF):** [View my latest Curriculum Vitae](https://drive.google.com/file/d/15vc7tL1ZPwsAWkcvvgi6Im9z1zO8H3x-/view?usp=sharing)
     * **LinkedIn:** [https://www.linkedin.com/in/syamsulhudauul/](https://www.linkedin.com/in/syamsulhudauul/)
     * **Email:** syamsulhuda.uul@gmail.com
     * **Twitter:** @syamsulhudauul
